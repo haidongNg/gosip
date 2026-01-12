@@ -1,3 +1,0 @@
-# GoFiber
-
-## Installation
